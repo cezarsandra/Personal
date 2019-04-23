@@ -77,10 +77,20 @@ Atunci când această expresie este evaluată, spunem că funcția *max* este ap
 16 
 ```
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>
+### 1.2.4 Names and the Enviroment
 
+Atunci când dăm un nume unei valori, spunem că am atașat (binds) valoarea de nume
+```
+>>> radius = 10 ←------ Dăm numelui  radius  valoarea 10  
+>>> radius  
+10 ←------  radius  are valoarea 10  
+>>> 2 * radius ←------ în calcule radius poate fi folosit în loc de  10  
+20
+```
+**„=”** se numește *assignment* operator în Python (și în multe alte limbaje). *Asignment* este un mijloc simplu de abstractizare.
 
+Environment  - este un fel de memorie în care interpretorul tine valorile cu numele lor. Numele pot fi atașate de funcții (adică de un set de instrucțiuni), însă numele funcțiilor poate fi schimbat în același mod în care atribuim valori:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTExODY1NSwxNTI1OTY4NDYzLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTAxNTUwNzEsMTUyNTk2ODQ2MywtMjA4OD
+c0NjYxMl19
 -->
