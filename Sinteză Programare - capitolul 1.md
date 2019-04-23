@@ -64,8 +64,18 @@ Atunci când această expresie este evaluată, spunem că funcția *max* este ap
 
 ### 1.2.3 Importing Library Functions
 
-În limbajul de programare Python avem predefinite multe funcții pentru numere. Dar ele nu sunt inserate by default, ci trebuie importate ca în exemplele de mai jos:
+În limbajul de programare Python avem predefinite multe funcții pentru numere. Dar ele nu sunt inserate `by default`, ci trebuie `importate` ca în exemplele de mai jos:
+
+```**>>> from math import sqrt ←--------  exemplu import  
+>>> sqrt(256)  
+16.0  
+>>> from operator import add, sub, mul ←------- exemplu import  
+>>> add(14, 28)  
+42  
+>>> sub(100, mul(7, add(8, 4)))  
+16** ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjM4NzI2OSwxNTI1OTY4NDYzLC0yMD
+eyJoaXN0b3J5IjpbLTcwODkyNDU0MiwxNTI1OTY4NDYzLC0yMD
 g4NzQ2NjEyXX0=
 -->
