@@ -139,21 +139,18 @@ Această ilustrație poartă numele de **expresion tree**. În știința calcula
 Exista 2 tipuri de functii:
 
 1. **Pure function**
-    
-
 Funcțiile pure au intrări (argumentele lor) și returnează o anumită ieșite (rezultatul aplicării acestora)
 
 ![](https://lh3.googleusercontent.com/bTp1Q6YPryAq_PbG4wzpjACWp8rPyI-aLhmuHGAreQhFiJYa4GVc8GEIK_VrhVs7Ya_6KfQJKMWNxSix5rYvVyN2J2Fxaeyvyqnyd4z0vnFMmlJXlTdmnJTj4QHTfOU2YfNsXUxn)
 
-  
-
-2.  Non-Pure functions - funcțiile non-pure sunt funcții care pe lângă valori returnate crează efecte secundare, care fac schimbări la state-ul interpretorului sau a calculatorului.
-    
-
-Funcția print este un exemplu de funcție non-pură:
+2.  **Non-Pure functions** - funcțiile non-pure sunt funcții care pe lângă valori returnate crează efecte secundare, care fac schimbări la state-ul interpretorului sau a calculatorului.
+ 
+Funcția *print* este un exemplu de funcție non-pură:
 
 ![](https://lh6.googleusercontent.com/uJB8nFukCgQdxUvFT-rfVC7h5TPb2MWO30bwhVnEIGmFASygBMgMc_GWAAAkAmJcaN2lbxvaWH0wMGsmzzzxQZBqFJoa5A9OQP5s5YpLE0qmtYtfeYC1gUEVO8SvleTptJPTXJuq)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzQ4NjI4OCwtNTY4ODI4MjksMTUyNT
-k2ODQ2MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIxMjA5MTI1NTgsLTU2ODgyODI5LDE1Mj
+U5Njg0NjMsLTIwODg3NDY2MTJdfQ==
 -->
