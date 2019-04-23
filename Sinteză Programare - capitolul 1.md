@@ -130,7 +130,10 @@ Evaluarea procedurii pentru call expression:
 1.  Evaluează operatorul și subexpression (sub-expresia) operandului
     
 2.  Aplica funcția, care este valoarea subexpression operatorului, la `argumente`, care sunt valorile subexpresiilor operandului
+
+![](https://lh5.googleusercontent.com/plJF0requS-cr91_189egO4RXzl8fm1xBdoH44zdN2GtonXrG_3_6EUvg0ViWOx7UvhICZg0AcEFE-zwOWSYkvLQqQbtB3-Xic5r4dw55qsJk4i8UufXIdathBoCxyyNJeuaYURU)
+Această ilustrație poartă numele de **expresion tree**. În știința calculatoarelor (computer science) copacii (trees) cresc convențional de sus în jos. Obiectele din fiecare punct din tree (copac) sunt numite noduri, Ele sunt expresii asociate cu valori.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTY0ODM3MSwtNTY4ODI4MjksMTUyNT
-k2ODQ2MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNTgwNDUyMDUxLC01Njg4MjgyOSwxNTI1OT
+Y4NDYzLC0yMDg4NzQ2NjEyXX0=
 -->
