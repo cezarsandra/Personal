@@ -16,7 +16,7 @@ Sunt programele care evaluează expresiile, codul și îl interpretează.
 ### 1.2 ELEMENTS OF PROGRAMING
 Fiecare limbaj are trei mecanisme:
 
-1.  Primitive expresion and statements (Expresiii și declarații primitive) - cele mai simple linii pe care limbajul le oferă;
+1.  *Primitive expresion and statements* (Expresiii și declarații primitive) - cele mai simple linii pe care limbajul le oferă;
     
 2.  Means of combination (Mijloace de combinare) - prin care elementele simple sunt combinate;
     
@@ -31,6 +31,6 @@ Avem de-a face cu două tipuri de elemente:
 
 Datele sunt lucrurile pe care dorim sa le manipulam într-un anume fel, iar funcțiile sunt regulile pentru aceste manipulări ale datelor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4MDg4NDU0LDE1MjU5Njg0NjMsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExODUyNjM5MDAsMTUyNTk2ODQ2MywtMj
+A4ODc0NjYxMl19
 -->
