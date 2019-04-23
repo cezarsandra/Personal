@@ -93,9 +93,19 @@ Atunci când dăm un nume unei valori, spunem că am atașat (binds) valoarea de
 ```python
 >>> max ←------ max este o funcție built-in  
 <built-in function max>
+>>> f = max ←------  Numim f funcția max
+
+>>> f  
+<built-in function max> ←------ Python recunoaște f ca funcție  
+>>> f(2, 3, 4)  
+4
 ```
 
+După ce se asignează (atribuie) *max* la 5, numele *max* nu mai este atașat (bind) de o funcție, și încercarea de a apela *max* (2, 3, 4) va da eroare.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NTY5MTMzLDE1MjU5Njg0NjMsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTUyOTA3OTc1NywxNTI1OTY4NDYzLC0yMD
+g4NzQ2NjEyXX0=
 -->
