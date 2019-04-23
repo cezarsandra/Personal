@@ -66,7 +66,7 @@ Atunci când această expresie este evaluată, spunem că funcția *max* este ap
 
 În limbajul de programare Python avem predefinite multe funcții pentru numere. Dar ele nu sunt inserate `by default`, ci trebuie `importate` ca în exemplele de mai jos:
 
-```
+```python
 >>> from math import sqrt ←--------  exemplu import 
 >>> sqrt(256)  
 16.0  
@@ -80,7 +80,7 @@ Atunci când această expresie este evaluată, spunem că funcția *max* este ap
 ### 1.2.4 Names and the Enviroment
 
 Atunci când dăm un nume unei valori, spunem că am atașat (binds) valoarea de nume
-```
+```python
 >>> radius = 10 ←------ Dăm numelui  radius  valoarea 10  
 >>> radius  
 10 ←------  radius  are valoarea 10  
@@ -90,12 +90,12 @@ Atunci când dăm un nume unei valori, spunem că am atașat (binds) valoarea de
 **„=”** se numește *assignment* operator în Python (și în multe alte limbaje). *Asignment* este un mijloc simplu de *abstractizare*.
 
 **`Environment`**  - este un fel de memorie în care `interpretorul` ține valorile cu numele lor. Numele pot fi atașate de funcții (adică de un set de instrucțiuni), însă numele funcțiilor poate fi schimbat în același mod în care atribuim valori:
-```
+```python
 >>> max ←------ max este o funcție built-in  
 <built-in function max>
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTkxNzQ4MzEsMTUyNTk2ODQ2MywtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNDc1NTY5MTMzLDE1MjU5Njg0NjMsLTIwOD
+g3NDY2MTJdfQ==
 -->
