@@ -15,22 +15,63 @@ Sunt programele care evaluează expresiile, codul și îl interpretează.
 
 ### 1.2 ELEMENTS OF PROGRAMING
 Fiecare limbaj are trei mecanisme:
-
-1.  **Primitive expresion and statements** *(Expresiii și declarații primitive)*  - cele mai simple linii pe care limbajul le oferă;
-    
+1.  **Primitive expresion and statements** *(Expresiii și declarații primitive)*  - cele mai simple linii pe care limbajul le oferă;   
 2.  **Means of combination** *(Mijloace de combinare)* - prin care elementele simple sunt combinate;
-    
 3.  **Means of abstractions** *(mijloace de abstractizare)* - prin care elementele componente pot fi numite și manipulate ca unități;
 
 Avem de-a face cu două tipuri de elemente:
-
-1.  **Funcții** - reguli de manipulare
-    
-6.  **Date** - lucruri de manipulat
+1.  **Funcții** - reguli de manipulare  
+2.  **Date** - lucruri de manipulat
     
 
 Datele sunt lucrurile pe care dorim sa le manipulam într-un anume fel, iar funcțiile sunt regulile pentru aceste manipulări ale datelor.
+
+1.2.1 Expressions
+
+Expresiile primitive: un fel de expresii primitive sunt numerele (Ex: 42)
+
+Expresiile reprezentate prin numere pot fi combinate cu operatori matematici, rezultând expresii compuse, pe care le va interpreta interpretorul.
+
+O expresie descrie un calcul și evaluează o valoare.
+
+  
+
+Call Expresion - cel mai important tip de expresie compusă (compound expresson) este call expression (expresia de apel, expresia care cheamă) care aplică o functie pe niste argumente (variabile).
+
+Anatomia unei call expresion:
+
+1.2.1 Expressions
+
+Expresiile primitive: un fel de expresii primitive sunt numerele (Ex: 42)
+
+Expresiile reprezentate prin numere pot fi combinate cu operatori matematici, rezultând expresii compuse, pe care le va interpreta interpretorul.
+
+O expresie descrie un calcul și evaluează o valoare.
+
+  
+
+Call Expresion - cel mai important tip de expresie compusă (compound expresson) este call expression (expresia de apel, expresia care cheamă) care aplică o functie pe niste argumente (variabile).
+
+Anatomia unei call expresion:
+
+![](https://lh6.googleusercontent.com/VIjdU8MEw1rxtS-K_j6AjSem79y0u5qvqPxSrwGiqY2CMpiueHfw2tCND1RHfkERxZNcXqqc3C51LiAtKimYDFPEwFItCdFpVl2TL_TQZT1LTfYupVjeCLiBDRNE1Ajla0VpZA4E)
+
+Atunci când această expresie este evaluată, spunem că funcția max este apelată cu argumentele 7.5 și 9.5 și returnează o valoare de 9.5 (valoarea maximă).
+
+Operator - ne specifică funcția (e numele funcției pe care o apelăm);
+
+Operand - sunt valorile cu care se operează funcția (argumente);
+
+Operator + operand = expresie;
+
+Atunci când această expresie este evaluată, spunem că funcția max este apelată cu argumentele 7.5 și 9.5 și returnează o valoare de 9.5 (valoarea maximă).
+
+Operator - ne specifică funcția (e numele funcției pe care o apelăm);
+
+Operand - sunt valorile cu care se operează funcția (argumente);
+
+Operator + operand = expresie;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTU3MjIzMCwxNTI1OTY4NDYzLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIxMDY1NzUyODksMTUyNTk2ODQ2MywtMj
+A4ODc0NjYxMl19
 -->
