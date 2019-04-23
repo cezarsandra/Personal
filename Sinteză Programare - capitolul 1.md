@@ -40,19 +40,17 @@ Call Expresion - cel mai important tip de expresie compusă (compound expresson)
 
 Anatomia unei call expresion:
 
-1.2.1 Expressions
+### 1.2.1 Expressions
 
-Expresiile primitive: un fel de expresii primitive sunt numerele (Ex: 42)
+**Expresiile primitive**: un fel de expresii primitive sunt numerele (Ex: 42)
 
 Expresiile reprezentate prin numere pot fi combinate cu operatori matematici, rezultând expresii compuse, pe care le va interpreta interpretorul.
 
 O expresie descrie un calcul și evaluează o valoare.
 
-  
+**Call Expresion** - cel mai important tip de expresie compusă (compound expresson) este **call expression** (expresia de apel, expresia care cheamă) care aplică o functie pe niste argumente (variabile).
 
-Call Expresion - cel mai important tip de expresie compusă (compound expresson) este call expression (expresia de apel, expresia care cheamă) care aplică o functie pe niste argumente (variabile).
-
-Anatomia unei call expresion:
+Anatomia unei **call expresion:**
 
 ![](https://lh6.googleusercontent.com/VIjdU8MEw1rxtS-K_j6AjSem79y0u5qvqPxSrwGiqY2CMpiueHfw2tCND1RHfkERxZNcXqqc3C51LiAtKimYDFPEwFItCdFpVl2TL_TQZT1LTfYupVjeCLiBDRNE1Ajla0VpZA4E)
 
@@ -72,6 +70,6 @@ Operand - sunt valorile cu care se operează funcția (argumente);
 
 Operator + operand = expresie;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY1NzUyODksMTUyNTk2ODQ2MywtMj
+eyJoaXN0b3J5IjpbLTE3NDYwODkxNDYsMTUyNTk2ODQ2MywtMj
 A4ODc0NjYxMl19
 -->
