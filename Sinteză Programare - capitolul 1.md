@@ -87,10 +87,15 @@ Atunci când dăm un nume unei valori, spunem că am atașat (binds) valoarea de
 >>> 2 * radius ←------ în calcule radius poate fi folosit în loc de  10  
 20
 ```
-**„=”** se numește *assignment* operator în Python (și în multe alte limbaje). *Asignment* este un mijloc simplu de abstractizare.
+**„=”** se numește *assignment* operator în Python (și în multe alte limbaje). *Asignment* este un mijloc simplu de *abstractizare*.
 
-Environment  - este un fel de memorie în care interpretorul tine valorile cu numele lor. Numele pot fi atașate de funcții (adică de un set de instrucțiuni), însă numele funcțiilor poate fi schimbat în același mod în care atribuim valori:
+**`Environment`**  - este un fel de memorie în care `interpretorul` ține valorile cu numele lor. Numele pot fi atașate de funcții (adică de un set de instrucțiuni), însă numele funcțiilor poate fi schimbat în același mod în care atribuim valori:
+```
+>>> max ←------ max este o funcție built-in  
+<built-in function max>
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTUwNzEsMTUyNTk2ODQ2MywtMjA4OD
-c0NjYxMl19
+eyJoaXN0b3J5IjpbLTE5MTkxNzQ4MzEsMTUyNTk2ODQ2MywtMj
+A4ODc0NjYxMl19
 -->
