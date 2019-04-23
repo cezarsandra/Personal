@@ -121,7 +121,7 @@ După ce se asignează (atribuie) *max* la 5, numele *max* nu mai este atașat (
 >>> y  
 3
 ```
-### 1.2.5 Evaluating Nested Expresions
+###   1.2.5 Evaluating Nested Expresions
 
 Expresiile nested sunt expresiile cuibărite în alte expresii.
 
@@ -131,6 +131,6 @@ Evaluarea procedurii pentru call expression:
     
 2.  Aplica funcția, care este valoarea subexpression operatorului, la `argumente`, care sunt valorile subexpresiilor operandului
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODgyODI5LDE1MjU5Njg0NjMsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTIwNTY0ODM3MSwtNTY4ODI4MjksMTUyNT
+k2ODQ2MywtMjA4ODc0NjYxMl19
 -->
