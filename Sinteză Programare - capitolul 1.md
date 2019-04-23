@@ -66,7 +66,8 @@ Atunci când această expresie este evaluată, spunem că funcția *max* este ap
 
 În limbajul de programare Python avem predefinite multe funcții pentru numere. Dar ele nu sunt inserate `by default`, ci trebuie `importate` ca în exemplele de mai jos:
 
-```>>> from math import sqrt ←--------  exemplu import   
+```
+>>> from math import sqrt ←--------  exemplu import 
 >>> sqrt(256)  
 16.0  
 >>> from operator import add, sub, mul ←------- exemplu import  
@@ -80,6 +81,6 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkwNDc1MDcsMTUyNTk2ODQ2MywtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTE5OTExODY1NSwxNTI1OTY4NDYzLC0yMD
+g4NzQ2NjEyXX0=
 -->
