@@ -151,6 +151,5 @@ Funcția *print* este un exemplu de funcție non-pură:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjA5MTI1NTgsLTU2ODgyODI5LDE1Mj
-U5Njg0NjMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMjA5MTI1NThdfQ==
 -->
