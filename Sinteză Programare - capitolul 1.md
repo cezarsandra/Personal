@@ -102,10 +102,35 @@ Atunci când dăm un nume unei valori, spunem că am atașat (binds) valoarea de
 ```
 
 După ce se asignează (atribuie) *max* la 5, numele *max* nu mai este atașat (bind) de o funcție, și încercarea de a apela *max* (2, 3, 4) va da eroare.
+```python
+>>> max = 5  
+>>> max  
+5
+```
+În cazul asignării multiple, toate expresiile din dreapta **„=”** sunt evaluate înainte ca orice nume din stânga să fie atașate (bind) de aceste valori. Ca rezultat al acestei reguli, schimbarea valorilor atașate (binding values) la două nume poate fi efectuată într-o singur statement.
+```python
+>>> x, y = 3, 4.5  
+>>> x  
+3  
+>>> y  
+4,5  
+  
+>>> y, x = x, y  
+>>> x  
+4.5  
+>>> y  
+3
+```
+### 1.2.5 Evaluating Nested Expresions
 
+Expresiile nested sunt expresiile cuibărite în alte expresii.
 
+Evaluarea procedurii pentru call expression:
 
+1.  Evaluează operatorul și subexpression (sub-expresia) operandului
+    
+2.  Aplica funcția, care este valoarea subexpression operatorului, la `argumente`, care sunt valorile subexpresiilor operandului
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTA3OTc1NywxNTI1OTY4NDYzLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTU2ODgyODI5LDE1MjU5Njg0NjMsLTIwOD
+g3NDY2MTJdfQ==
 -->
