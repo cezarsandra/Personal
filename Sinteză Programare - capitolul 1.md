@@ -54,22 +54,18 @@ Anatomia unei **call expresion:**
 
 ![](https://lh6.googleusercontent.com/VIjdU8MEw1rxtS-K_j6AjSem79y0u5qvqPxSrwGiqY2CMpiueHfw2tCND1RHfkERxZNcXqqc3C51LiAtKimYDFPEwFItCdFpVl2TL_TQZT1LTfYupVjeCLiBDRNE1Ajla0VpZA4E)
 
-Atunci când această expresie este evaluată, spunem că funcția max este apelată cu argumentele 7.5 și 9.5 și returnează o valoare de 9.5 (valoarea maximă).
+Atunci când această expresie este evaluată, spunem că funcția *max* este apelată cu argumentele 7.5 și 9.5 și returnează o valoare de 9.5 (valoarea maximă).
 
-Operator - ne specifică funcția (e numele funcției pe care o apelăm);
+**Operator** - ne specifică funcția (e numele funcției pe care o apelăm);
 
-Operand - sunt valorile cu care se operează funcția (argumente);
+**Operand** - sunt valorile cu care se operează funcția (`argumente`);
 
-Operator + operand = expresie;
+**Operator + operand** = expresie;
 
-Atunci când această expresie este evaluată, spunem că funcția max este apelată cu argumentele 7.5 și 9.5 și returnează o valoare de 9.5 (valoarea maximă).
+### 1.2.3 Importing Library Functions
 
-Operator - ne specifică funcția (e numele funcției pe care o apelăm);
-
-Operand - sunt valorile cu care se operează funcția (argumente);
-
-Operator + operand = expresie;
+În limbajul de programare Python avem predefinite multe funcții pentru numere. Dar ele nu sunt inserate by default, ci trebuie importate ca în exemplele de mai jos:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYwODkxNDYsMTUyNTk2ODQ2MywtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTUwNjM4NzI2OSwxNTI1OTY4NDYzLC0yMD
+g4NzQ2NjEyXX0=
 -->
